@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in Python code related to handling empty lists when calculating averages. The `bug.py` file contains code that returns 0 if an empty list is provided. The `bugSolution.py` file provides a more robust solution. This scenario is relevant because improper empty list handling can lead to unexpected results or program crashes.
